@@ -1,0 +1,2 @@
+study_accession	sample_accession	experiment_accession	run_accession	tax_id	scientific_name	fastq_ftp	fastq_aspera	submitted_ftp	sra_ftp
+PRJNA487817	SAMN09911433	SRX4609964	SRR7754060	10090	Mus musculus	ftp.sra.ebi.ac.uk/vol1/fastq/SRR775/000/SRR7754060/SRR7754060_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR775/000/SRR7754060/SRR7754060_2.fastq.gz	fasp.sra.ebi.ac.uk:/vol1/fastq/SRR775/000/SRR7754060/SRR7754060_1.fastq.gz;fasp.sra.ebi.ac.uk:/vol1/fastq/SRR775/000/SRR7754060/SRR7754060_2.fastq.gz		
